@@ -30,7 +30,7 @@ type
   public
     { Public declarations }
   end;
-
+//легкое изменение
 var
   Form1: TForm1;
 
